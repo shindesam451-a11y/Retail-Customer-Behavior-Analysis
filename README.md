@@ -64,6 +64,10 @@ The analysis uses `Mall_Customers.csv` which contains:
 - `API_DOCS.md` - Additional API documentation
 
 ## Output
+<img width="1845" height="956" alt="Screenshot 2026-06-05 112533" src="https://github.com/user-attachments/assets/bd9b5199-23ae-4488-ac45-4aadb15ab786" />
+
+
+
 
 The analysis generates several visualizations using matplotlib/seaborn that appear in separate windows:
 - Age distribution plot
