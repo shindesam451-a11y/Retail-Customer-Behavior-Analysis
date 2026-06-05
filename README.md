@@ -73,4 +73,4 @@ The analysis generates several visualizations using matplotlib/seaborn that appe
 
 ## Author
 
-Retail Analytics Team
+Samadhan Trambak Shinde
