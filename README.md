@@ -66,6 +66,7 @@ The analysis uses `Mall_Customers.csv` which contains:
 ## Output
 <img width="1845" height="956" alt="Screenshot 2026-06-05 112533" src="https://github.com/user-attachments/assets/bd9b5199-23ae-4488-ac45-4aadb15ab786" />
 
+<img width="1842" height="931" alt="Screenshot 2026-06-05 112545" src="https://github.com/user-attachments/assets/496dbf77-f0dc-4dd6-a016-961e28aaf8b5" />
 
 
 
