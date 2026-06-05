@@ -73,8 +73,13 @@ The analysis uses `Mall_Customers.csv` which contains:
 The analysis generates several visualizations using matplotlib/seaborn that appear in separate windows:
 - Age distribution plot
 - Income vs spending scatter plot
+
+  <img width="1885" height="957" alt="Screenshot 2026-06-05 112604" src="https://github.com/user-attachments/assets/a98b24ca-7b40-40a8-9795-4e200ce3f738" />
+
 - Elbow curve for optimal cluster selection
 - Final customer segments visualization
+<img width="1860" height="985" alt="Screenshot 2026-06-05 112640" src="https://github.com/user-attachments/assets/719c127f-f3f6-4f6f-aae5-f347a34658a1" />
+
 
 ## Author
 
